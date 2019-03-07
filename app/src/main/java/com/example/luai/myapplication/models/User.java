@@ -1,3 +1,5 @@
+//Code author: Luai Iwidat 
+
 package com.example.luai.myapplication.models;
 
 public class User {

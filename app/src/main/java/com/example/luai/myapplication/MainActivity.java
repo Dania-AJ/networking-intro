@@ -1,3 +1,5 @@
+//Code author and owner: Luai Iwidat 
+
 package com.example.luai.myapplication;
 
 import android.support.v7.app.AppCompatActivity;

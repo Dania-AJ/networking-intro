@@ -1,3 +1,5 @@
+//Code author and owner: Luai Iwidat 
+
 package com.example.luai.myapplication.utils;
 
 import com.example.luai.myapplication.models.User;

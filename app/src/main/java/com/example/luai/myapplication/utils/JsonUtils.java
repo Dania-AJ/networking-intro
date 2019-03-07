@@ -1,4 +1,4 @@
-//Code author and owner: Luai Iwidat 
+//Code author: Luai Iwidat 
 
 package com.example.luai.myapplication.utils;
 
